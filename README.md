@@ -24,6 +24,10 @@ Otsu's method automatically finds an optimal threshold value by minimizing the w
 Use plt.imshow() to visualize the grayscale image and the segmented images from global, adaptive, and Otsu's thresholding techniques.
 
 ## Program and Output
+```
+Developed By : Roselin mary jovita s
+Reg No : 212222230122
+```
 
 ### Original Image
 ```python
